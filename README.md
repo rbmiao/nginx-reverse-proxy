@@ -18,5 +18,5 @@ To run the containers:
 <img src="reverse proxy.png"/>
 
 
-## Refrence
+## Reference
 https://www.youtube.com/watch?v=hxngRDmHTM0
