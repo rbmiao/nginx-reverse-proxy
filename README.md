@@ -20,7 +20,9 @@ To destroy the containers:
 You might need to remore docker containers and docker images first if you re-run:
 
 `docker stop ***** *****`
+
 `docker rm *****  *****`
+
 `docker rmi ****  **********`
 
 ## Oversimplified Diagram
