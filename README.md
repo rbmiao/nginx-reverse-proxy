@@ -14,6 +14,14 @@ To build the containers:
 To run the containers:
 `docker-compose up`
 
+To destroy the containers:
+`docker-compose down`
+
+You might need to remore docker containers and docker images first if you re-run
+`docker stop ***** *****`
+`docker rm *****  *****`
+`docker rmi ****  **********`
+
 ## Oversimplified Diagram
 <img src="reverse proxy.png"/>
 
