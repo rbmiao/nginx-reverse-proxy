@@ -17,7 +17,8 @@ To run the containers:
 To destroy the containers:
 `docker-compose down`
 
-You might need to remore docker containers and docker images first if you re-run
+You might need to remore docker containers and docker images first if you re-run:
+
 `docker stop ***** *****`
 `docker rm *****  *****`
 `docker rmi ****  **********`
